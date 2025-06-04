@@ -472,6 +472,7 @@ button {
 .futer-container {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 .footer-text-wrapper {
@@ -480,7 +481,7 @@ button {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     margin-bottom: 16px;
-    margin-right: 120px;
+    
     max-width: 264px;
 
 }
