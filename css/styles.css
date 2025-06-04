@@ -479,10 +479,6 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    margin-bottom: 16px; 
-    max-width: 264px;
-    margin-right: 120px;
-
 }
 
 .footer-logo {
@@ -502,6 +498,11 @@ button {
 }
 
 .accent {
+}
+
+.footer-text {
+    max-width: 264px;
+    margin-right: 120px;
 }
 
 .footer-soc-wrapper {
