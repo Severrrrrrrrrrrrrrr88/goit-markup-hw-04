@@ -477,6 +477,7 @@ button {
     margin-bottom: 16px;
     margin-right: 120px;
     max-width: 264px;
+
 }
 
 .footer-logo {
@@ -509,6 +510,7 @@ button {
   letter-spacing: 0.02em;
   color:  #FFFFFF;
   margin-bottom: 16px;
+  line-height: 1.5;
 }
 
 .foter-icon-list {
