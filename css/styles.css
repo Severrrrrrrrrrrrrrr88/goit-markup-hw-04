@@ -474,14 +474,14 @@ button {
   align-items: baseline;
 }
 
-.footer-text-wrapper {
+.footer-left {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    margin-bottom: 16px;
-    margin-right: 120px;
+    margin-bottom: 16px; 
     max-width: 264px;
+    margin-right: 120px;
 
 }
 
@@ -506,6 +506,7 @@ button {
 
 .footer-soc-wrapper {
     margin-right: 120px;
+    border: 1px solid rgb(123, 0, 255);
 }
 
 .footer-icon-subtitle {
@@ -526,8 +527,6 @@ button {
 .footer-icon-item {
     width: 40px;
     height: 40px;
-    
-
 }
 
 .footer-icons-linc {
